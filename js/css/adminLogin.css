@@ -1,0 +1,13 @@
+.liushubody {
+    width: 400px;
+    margin: 20px auto 0;
+}
+
+.liushuwidth {
+    width: 100%;
+}
+
+legend {
+    color: #1E9FFF;
+    text-align: center;
+}

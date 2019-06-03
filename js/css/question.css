@@ -1,0 +1,9 @@
+.maxwidth {
+    width:100%;
+}
+
+#bodydiv {
+    width: 80%;
+    margin:20px auto 0;
+    text-align: left;
+}
